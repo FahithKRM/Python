@@ -48,5 +48,5 @@ for question in questionsList:
         print(f"Correct answer is {correctAnswers[questionNumber]}")
     questionNumber+=1
 
-print("\b#########################Results########################\b")
+print("\n#########################Results########################\n")
 print(f"Your score is {score/10 *100} %")
